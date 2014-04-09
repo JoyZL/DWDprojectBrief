@@ -1,18 +1,7 @@
-Example Node Server
+Project Brief
 =============
 
-Setup:
-  * Install nodemon:
-  * `npm install -g nodemon`
-
-To run this server:
-
-  * `nodemon server.js`
-  * Visit http://localhost:5000/
-
-To view the server in action:
-
-  * Visit http://frozen-plains-7894.herokuapp.com/
+I wish to collaborate my Mashup API class project with this project to create a real time, interactive air quality map service website. I will be using a map API, D3.js and an air quality API. Unfortunately the air quality API I want to use doesn't offer real time access to their jSON data via a URL but only exports a jSON file. Therefore, in this class I wish to grab their json file, load it in my own database, and set up my own app with a server to create a stand-alone application plus API.
 
 
 
